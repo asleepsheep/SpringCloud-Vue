@@ -15,16 +15,26 @@ public class AuthController {
     @Autowired
     private AuthClient authClient;
 
+    /**
+     * auth自身方法
+     *
+     * @return String
+     */
     @GetMapping("/authMsg")
     public String authMsg() {
-        return "This is authMsg";
+        return "I am authMsg";
     }
 
+    /**
+     * 调用monitor服务的monitorMsg方法，并返回结果
+     *
+     * @return authMessage
+     */
     @GetMapping("/monitorMsg")
-    public String getAuthMessage() {
-        String authMessage = authClient.authMsg();
+    public String getMonitorMessage() {
+        String monitorMessage = authClient.getMonitorMsg();
 
-        return authMessage;
+        return "看看monitor那边说了什么消息：" + monitorMessage;
     }
 
 }

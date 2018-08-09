@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.GetMapping;
  * 2018/8/9 11:48
  */
 @Component
-@FeignClient(name = "HONGGUAN-MONITOR")
+@FeignClient(name = "hongguan-monitor")
 public interface AuthClient {
 
     @Bean
     @GetMapping("/monitorMsg")
-    String authMsg();
+    String getMonitorMsg();
 }
