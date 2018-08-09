@@ -25,9 +25,9 @@ spring:
       server:
         bootstrap: true
         git:
-          uri: https://github.com/asleepsheep/SpringCloud/tree/master/hongguan-parent
-          username: 
-          password: 
+          uri: https://github.com/asleepsheep/hongguan-parent
+          username:
+          password:
           search-paths: hongguan-config/respo_conf
 #          basedir: ./tmp
   boot:
@@ -46,9 +46,9 @@ spring:
       server:
         bootstrap: true
         git:
-          uri:  https://github.com/asleepsheep/SpringCloud/tree/master/hongguan-parent
-          username: 
-          password: 
+          uri:  https://github.com/asleepsheep/hongguan-parent
+          username:
+          password:
           search-paths: hongguan-config/respo_conf
   boot:
     admin:
@@ -69,9 +69,9 @@ spring:
       server:
         bootstrap: true
         git:
-          uri: https://github.com/asleepsheep/SpringCloud/tree/master/hongguan-parent
-          username: 
-          password: 
+          uri: https://github.com/asleepsheep/hongguan-parent
+          username:
+          password:
           search-paths: hongguan-config/respo_conf
   boot:
     admin:
