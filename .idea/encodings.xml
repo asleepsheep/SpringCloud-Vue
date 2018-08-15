@@ -6,10 +6,16 @@
     <file url="file://$PROJECT_DIR$/hongguan-auth" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hongguan-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hongguan-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hongguan-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/CondInstancesApplicationTests.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/hongguan-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hongguan-logger" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hongguan-message" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hongguan-monitor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hongguan-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hongguan-service-bussiness" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hongguan-service-intensive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hongguan-service-price" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hongguan-shared" charset="UTF-8" />
   </component>
 </project>

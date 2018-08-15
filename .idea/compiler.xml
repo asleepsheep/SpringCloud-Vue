@@ -10,11 +10,16 @@
         <module name="hongguan-auth" />
         <module name="hongguan-config" />
         <module name="hongguan-core" />
+        <module name="hongguan-data" />
         <module name="hongguan-gateway" />
         <module name="hongguan-logger" />
         <module name="hongguan-message" />
         <module name="hongguan-monitor" />
         <module name="hongguan-register" />
+        <module name="hongguan-service-bussiness" />
+        <module name="hongguan-service-intensive" />
+        <module name="hongguan-service-price" />
+        <module name="hongguan-shared" />
       </profile>
     </annotationProcessing>
   </component>
