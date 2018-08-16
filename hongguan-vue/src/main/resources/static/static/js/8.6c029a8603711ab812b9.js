@@ -1,0 +1,2 @@
+webpackJsonp([8],{OPnq:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  营销支撑管理\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"promotion"},r,!1,function(e){t("eXhv")},"data-v-da5cd024",null);n.default=a.exports},eXhv:function(e,n){}});
+//# sourceMappingURL=8.6c029a8603711ab812b9.js.map

@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9819b28c-f635-47c1-81b2-834d2762fa96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/HongguanDataApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/entity/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/enums/UserSexEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/main/resources/test.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/CondInstancesApplicationTests.java" afterDir="false" />
+    <list default="true" id="c5049871-33d9-4228-9013-1b5966a4c492" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_thymeleaf_thymeleaf_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hongguan-vue/src/main/java/com/hg/vue/controller/vueController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-api/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-api/target/classes/META-INF/maven/hongguan-api/hongguan-api/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-api/target/classes/META-INF/maven/hongguan-api/hongguan-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-core/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-core/target/classes/META-INF/maven/hongguan-core/hongguan-core/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-core/target/classes/META-INF/maven/hongguan-core/hongguan-core/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongguan-register/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hongguan-register/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hongguan-monitor/src/main/java/com/hg/monitor/HongguanMonitorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hongguan-monitor/src/main/java/com/hg/monitor/HongguanMonitorApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/hongguan-register/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-shared/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hongguan-auth/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-service-bussiness/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-service-price/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-service-intensive/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-monitor/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-message/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-config/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-data/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-core/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-api/target/" />
-    <ignored path="$PROJECT_DIR$/hongguan-gateway/target/" />
     <ignored path="$PROJECT_DIR$/hongguan-logger/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-register/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-service-price/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-shared/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-data/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-config/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-service-intensive/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-core/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-message/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-service-bussiness/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-api/target/" />
+    <ignored path="$PROJECT_DIR$/hongguan-vue/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,84 +35,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1622481549">
+    <session id="1547881910">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="java" value="50" />
-          <entry key="properties" value="3" />
-          <entry key="sql" value="3" />
-          <entry key="xml" value="9" />
-          <entry key="yml" value="12" />
+          <entry key="css" value="2" />
+          <entry key="html" value="9" />
+          <entry key="java" value="4" />
+          <entry key="js" value="3" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="50" />
-          <entry key="Properties" value="3" />
-          <entry key="SQL" value="3" />
-          <entry key="XML" value="9" />
-          <entry key="YAML" value="12" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="9" />
+          <entry key="JAVA" value="4" />
+          <entry key="JavaScript" value="3" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="15" />
-          <entry key="java" value="2032" />
-          <entry key="sql" value="2" />
-          <entry key="xml" value="142" />
-          <entry key="yml" value="247" />
+          <entry key="html" value="140" />
+          <entry key="java" value="136" />
+          <entry key="js" value="51" />
+          <entry key="xml" value="7" />
+          <entry key="yml" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2032" />
-          <entry key="PLAIN_TEXT" value="15" />
-          <entry key="SQL" value="2" />
-          <entry key="XML" value="142" />
-          <entry key="YAML" value="247" />
+          <entry key="HTML" value="140" />
+          <entry key="JAVA" value="136" />
+          <entry key="JavaScript" value="51" />
+          <entry key="XML" value="7" />
+          <entry key="YAML" value="75" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="76">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/UserMapper.java">
+        <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/java/com/hg/vue/controller/vueController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="231">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,10 +106,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/test.sql">
+        <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="126">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -146,16 +119,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>mapper</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,43 +131,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hongguan-register/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hongguan-monitor/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/dataobject/Account.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/dataobject/condInstances.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/condInstanceRepository.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/impl/condInstanceRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/CondInstancesApplicationTests.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/CondInstancesApplicationTests.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/CondInstancesService.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/dataobject/ProductInfo.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/ProductInfoRepository.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/ProductServiceTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/ProductApplicationTests.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/impl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/service/ProductServiceTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/impl/CondInstancesServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/impl/CondInstancesServiceImpl.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/service/CondInstancesServiceTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/CondInstancesServiceTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/Mapper/CondInstanceMapperTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/Mapper/CondInstanceMapper.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/Mapper/impl/CondInstanceMapperImpl.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/mapper/CondInstanceMapperTest.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/CondInstanceRepository.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/HongguanDataApplication.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/impl/CondInstancesMapperImpl.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/dataobject/CondInstances.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/CondInstancesMapper.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/controller/CondInstancesController.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/enums/UserSexEnum.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/hongguan-monitor/src/main/java/com/hg/monitor/HongguanMonitorApplication.java" />
+        <option value="$PROJECT_DIR$/hongguan-vue/pom.xml" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/java/com/hg/vue/VueApplication.java" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/static/assets/404.html" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/static/404.html" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/static/dist/index.html" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/java/com/hg/vue/controller/vueController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/resources/test.sql" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/static/onclick.js" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/static/js/1.d818b1c24803753b1e91.js" />
+        <option value="$PROJECT_DIR$/hongguan-vue/src/main/resources/static/index.html" />
       </list>
     </option>
   </component>
@@ -227,27 +172,22 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hongguan-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="hongguan-vue" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hongguan-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hongguan-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="hongguan-vue" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="19" />
-    <option name="y" value="58" />
-    <option name="width" value="1301" />
-    <option name="height" value="763" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="10" />
+    <option name="width" value="1313" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -258,7 +198,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,121 +208,81 @@
             <path>
               <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
+              <item name="hongguan-vue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
+              <item name="hongguan-vue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
+              <item name="hongguan-vue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hongguan-data" type="462c0819:PsiDirectoryNode" />
+              <item name="hongguan-vue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hongguan-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hongguan-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hongguan-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hongguan-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534301604102" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="E:/code_my/imooc-springboot-starter" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534414890371" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.hg.data.Mapper" />
-      <recent name="com.hg.data.service.impl" />
-      <recent name="com.hg.data.service" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.hg.data.service" />
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\code\2018.8.13\hongguan-parent\hongguan-data\src\main\resources" />
+      <recent name="E:\code\2018.8.16 hongguan-parent-mybatis\hongguan-parent\hongguan-vue\src\main\resources\static" />
+      <recent name="E:\code\2018.8.16 hongguan-parent-mybatis\hongguan-parent\hongguan-vue\src\main\resources" />
+      <recent name="E:\code\2018.8.16 hongguan-parent-mybatis\hongguan-parent\hongguan-vue\src\main\resources\static\assets" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\code\2018.8.13\hongguan-parent\hongguan-data\src\test\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.hg.data.controller" />
-      <recent name="com.hg.data.mapper" />
-      <recent name="com.hg.data.enums" />
-      <recent name="com.hg.data.entity" />
-      <recent name="com.hg.data.service.impl" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.hg.data.mapper.impl" />
-      <recent name="com.hg.data.Mapper.impl" />
-      <recent name="com.hg.data.service.impl" />
-      <recent name="com.hg.data.repository.impl" />
+      <recent name="E:\code\2018.8.16 hongguan-parent-mybatis\hongguan-parent\hongguan-vue\src\main\resources\static" />
+      <recent name="E:\code\2018.8.16 hongguan-parent-mybatis\hongguan-parent\hongguan-vue\src\main\resources\templates" />
+      <recent name="E:\code\2018.8.16 hongguan-parent-mybatis\hongguan-parent\hongguan-vue\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,87 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HongguanDataApplication">
-    <configuration name="CondInstanceMapperTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hongguan-data" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hg.data.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hg.data.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.hg.data.mapper.CondInstanceMapperTest" />
-      <option name="METHOD_NAME" value="findByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CondInstancesServiceImplTest.findByNameIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hongguan-data" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hg.data.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hg.data.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.hg.data.service.impl.CondInstancesServiceImplTest" />
-      <option name="METHOD_NAME" value="findByNameIn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CondInstancesServiceTest.findByNameIn (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hongguan-data" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hg.data.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hg.data.service" />
-      <option name="MAIN_CLASS_NAME" value="com.hg.data.service.CondInstancesServiceTest" />
-      <option name="METHOD_NAME" value="findByNameIn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CondInstancesServiceTest.findByNameIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hongguan-data" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hg.data.service.service" />
-      <option name="MAIN_CLASS_NAME" value="com.hg.data.service.service.CondInstancesServiceTest" />
-      <option name="METHOD_NAME" value="findByNameIn" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductServiceTest.findList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hongguan-data" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hg.data.service.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hg.data.service.service" />
-      <option name="MAIN_CLASS_NAME" value="com.hg.data.service.service.ProductServiceTest" />
-      <option name="METHOD_NAME" value="findList" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.VueApplication">
     <configuration name="HongguanAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hongguan-auth" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hg.auth.HongguanAuthApplication" />
@@ -528,20 +347,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HongguanRegisterApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="hongguan-register" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hg.register.HongguanRegisterApplication" />
-      <option name="VM_PARAMETERS" value="-Dserver.port=8762" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HongguanRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hongguan-register" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hg.register.HongguanRegisterApplication" />
-      <option name="VM_PARAMETERS" value="-Dserver.port=8761" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -574,147 +382,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VueApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hongguan-vue" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hg.vue.VueApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Spring Boot.HongguanRegisterApplication" />
-      <item itemvalue="Spring Boot.HongguanRegisterApplication (1)" />
-      <item itemvalue="Spring Boot.HongguanSharedApplication" />
       <item itemvalue="Spring Boot.HongguanAuthApplication" />
-      <item itemvalue="Spring Boot.HongguanServiceBussinessApplication" />
-      <item itemvalue="Spring Boot.HongguanServicePriceApplication" />
-      <item itemvalue="Spring Boot.HongguanServiceIntensiveApplication" />
-      <item itemvalue="Spring Boot.HongguanMonitorApplication" />
-      <item itemvalue="Spring Boot.HongguanMessageApplication" />
-      <item itemvalue="Spring Boot.HongguanConfigApplication" />
-      <item itemvalue="Spring Boot.HongguanDataApplication" />
-      <item itemvalue="Spring Boot.HongguanGatewayApplication" />
       <item itemvalue="Spring Boot.HongguanLoggerApplication" />
-      <item itemvalue="JUnit.CondInstancesServiceTest.findByNameIn" />
-      <item itemvalue="JUnit.ProductServiceTest.findList" />
-      <item itemvalue="JUnit.CondInstancesServiceImplTest.findByNameIn" />
-      <item itemvalue="JUnit.CondInstancesServiceTest.findByNameIn (1)" />
-      <item itemvalue="JUnit.CondInstanceMapperTest.findByName" />
+      <item itemvalue="Spring Boot.HongguanRegisterApplication" />
+      <item itemvalue="Spring Boot.HongguanServicePriceApplication" />
+      <item itemvalue="Spring Boot.HongguanSharedApplication" />
+      <item itemvalue="Spring Boot.HongguanDataApplication" />
+      <item itemvalue="Spring Boot.HongguanConfigApplication" />
+      <item itemvalue="Spring Boot.HongguanMonitorApplication" />
+      <item itemvalue="Spring Boot.HongguanServiceIntensiveApplication" />
+      <item itemvalue="Spring Boot.HongguanGatewayApplication" />
+      <item itemvalue="Spring Boot.HongguanMessageApplication" />
+      <item itemvalue="Spring Boot.HongguanServiceBussinessApplication" />
+      <item itemvalue="Spring Boot.VueApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.CondInstancesServiceTest.findByNameIn (1)" />
-        <item itemvalue="JUnit.CondInstanceMapperTest.findByName" />
-        <item itemvalue="JUnit.CondInstancesServiceTest.findByNameIn" />
-        <item itemvalue="JUnit.CondInstancesServiceImplTest.findByNameIn" />
-        <item itemvalue="JUnit.ProductServiceTest.findList" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9819b28c-f635-47c1-81b2-834d2762fa96" name="Default Changelist" comment="" />
-      <created>1534143069757</created>
+      <changelist id="c5049871-33d9-4228-9013-1b5966a4c492" name="Default Changelist" comment="" />
+      <created>1534400085282</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534143069757</updated>
-      <workItem from="1534143074885" duration="13960000" />
-      <workItem from="1534209167012" duration="10669000" />
-      <workItem from="1534295133025" duration="5959000" />
+      <updated>1534400085282</updated>
+      <workItem from="1534400090209" duration="13975000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="CondInstancesServiceTest_findByNameIn - 2018.08.13 at 17h 01m 55s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstancesServiceTest_findByNameIn_(1) - 2018.08.13 at 17h 15m 20s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstanceMapperTest_findByName - 2018.08.13 at 17h 42m 53s.xml">
-      <configuration name="CondInstanceMapperTest.findByName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstanceMapperTest_findByName - 2018.08.13 at 17h 49m 28s.xml">
-      <configuration name="CondInstanceMapperTest.findByName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstanceMapperTest_findByName - 2018.08.13 at 17h 49m 57s.xml">
-      <configuration name="CondInstanceMapperTest.findByName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstancesServiceTest_findByNameIn_(1) - 2018.08.13 at 18h 43m 34s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstancesServiceTest_findByNameIn_(1) - 2018.08.13 at 18h 44m 38s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstancesServiceTest_findByNameIn_(1) - 2018.08.13 at 18h 47m 44s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstancesServiceTest_findByNameIn_(1) - 2018.08.14 at 09h 19m 22s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CondInstancesServiceTest_findByNameIn_(1) - 2018.08.14 at 09h 28m 42s.xml">
-      <configuration name="CondInstancesServiceTest.findByNameIn (1)" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30588000" />
+    <option name="totallyTimeSpent" value="13975000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="58" width="1301" height="763" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28605962" />
-      <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" weight="0.3290938" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.29357797" />
-      <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.23688394" />
-      <window_info anchor="bottom" id="Java Enterprise" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3265625" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Ant Build" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32957292" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.26188558" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.28668684" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" weight="0.3284553" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info active="true" anchor="bottom" id="Debug" visible="true" weight="0.33606556" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Find" weight="0.3294702" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Ant Build" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" weight="0.32980332" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" weight="0.3857791" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26048952" />
-      <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.3152174" />
-      <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.27329192" />
-      <window_info anchor="bottom" id="Java Enterprise" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32763976" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Ant Build" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Bean Validation" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.1860817" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -722,219 +461,120 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/mapper/CondInstanceMapperTest.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hongguan-config/respo_conf/config-dev.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-config/respo_conf/config-pro.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-config/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-register/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
+        <state relative-caret-position="-126" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hongguan-monitor/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <caret line="8" column="26" lean-forward="true" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-config/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/impl/condInstanceRepositoryImpl.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/dataobject/ProductInfo.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/ProductInfoRepository.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/ProductApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/service/ProductServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/ProductService.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="268" selection-start-line="268" selection-end-line="268" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestExecutionCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/impl/ProductServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/impl/CondInstancesServiceImplTest.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/mapper/impl/CondInstanceMapperImpl.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/mapper/CondInstanceMapperTest.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/mapper/CondInstanceMapper.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/impl/CondInstancesMapperImpl.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/pom.xml">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/assets/css/app.1e7f07a13f9052f65a18d5884fa92959.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/repository/CondInstanceRepository.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/impl/CondInstancesServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/service/CondInstancesService.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/service/CondInstancesServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/HongguanDataApplication.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-register/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/test/java/com/hg/data/CondInstancesApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/dataobject/CondInstances.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/enums/UserSexEnum.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/entity/UserEntity.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-monitor/src/main/java/com/hg/monitor/HongguanMonitorApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="84">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/CondInstancesMapper.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/java/com/hg/vue/VueApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/controller/CondInstancesController.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/assets/js/0.5fe006c8364d78c214b9.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="42" column="57" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="-67">
+          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/onclick.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/mapper/UserMapper.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/js/1.d818b1c24803753b1e91.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+        <state relative-caret-position="1910">
+          <caret line="154" column="31" selection-start-line="154" selection-start-column="31" selection-end-line="154" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/java/com/hg/vue/controller/vueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/java/com/hg/data/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/static/css/app.1e7f07a13f9052f65a18d5884fa92959.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="231">
+          <caret column="801" lean-forward="true" selection-start-column="801" selection-end-column="801" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#219037#219176#2" expanded="true" />
+            <element signature="e#221893#222032#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hongguan-data/src/main/resources/test.sql">
+    <entry file="file://$PROJECT_DIR$/hongguan-vue/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
